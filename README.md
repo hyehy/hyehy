@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=HyeYun&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyeYun&fontSize=90&animation=twinkling)
 
 
 <h1 align="center"><b>🇰🇷</b></h1>
