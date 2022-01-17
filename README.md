@@ -1,7 +1,6 @@
-<h1 align="center"><b>🇰🇷</b></h1>
-
+<h1 align="center"><b>🇰🇷HyeYun Jeon</b></h1>
 <h5 align="center"><b>안녕하세요👋 App개발자를 꿈꾸는 초보개발자 정혜윤입니다.</b></h5>
-</br>
+
 <h3 align="center"><b>🛠My Tech Stack 🛠</b></h3>
 </br>
 <p align="center"
