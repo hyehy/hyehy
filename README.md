@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=HyeYun&fontSize=90&animation=twinkling)
 
 
-<h1 align="center"><b>🇰🇷HyeYun Jeong</b></h1>
+<h1 align="center"><b>🇰🇷</b></h1>
 <h5 align="center"><b>안녕하세요👋 App개발자를 꿈꾸는 초보개발자 정혜윤입니다.</b></h5>
 
 <h3 align="center"><b>🛠My Tech Stack 🛠</b></h3>
