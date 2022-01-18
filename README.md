@@ -9,7 +9,7 @@
 </div>
 
 
-<h5 align="center"><b>안녕하세요👋 App개발자를 꿈꾸는 초보개발자 정혜윤입니다.</b></h5>
+<h5 align="center"><b>안녕하세요👋 초보개발자 정혜윤입니다.</b></h5>
 
 <h3 align="center"><b>🛠My Tech Stack 🛠</b></h3>
 </br>
