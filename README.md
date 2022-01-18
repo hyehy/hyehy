@@ -32,4 +32,8 @@
 
 📧 Email hyeyun1995@naver.com</b></h5>
 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyehy)](https://github.com/hyehy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehy)](https://github.com/hyehy/github-readme-stats)
+
+
 
