@@ -9,12 +9,6 @@
 </div>
 
 
-
-
-<h3 align="center"><b>🛠My Tech Stack 🛠</b></h3>
-</br>
-
-</br>
 <h3 align="center"><b>🧸 Me 🧸 </b></h3>
 </br>
 <p align="center"
